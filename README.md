@@ -1,4 +1,8 @@
-lab3
-====
+# YOSO
+You only shop once.
 
-Lab 3 for Intro HCI: client-side interactivity
+### Usage
+Resize browser as seen in the picture.
+
+![index.html](https://raw2.github.com/albert-ke/YOSO/master/misc/example.png "index.html")
+
